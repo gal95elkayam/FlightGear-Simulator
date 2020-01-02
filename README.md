@@ -13,8 +13,9 @@ Prerequisites
     --telnet=socket,in,10,127.0.0.1,5402,tcp
     --generic=socket,out,10,127.0.0.1,5400,tcp,generic_small
     
-
-simulator-settings-config
+  ![Screenshot_2019-11-24_15-34-48](https://user-images.githubusercontent.com/59448091/71695205-18b67880-2dba-11ea-95d9-6645bf82e6c3.png)
+  
+   
 
 This will open two communication sockets - 'in' where you send commands to the simulator, and 'out' where you receive data from it.
 ## Running
