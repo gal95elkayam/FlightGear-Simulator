@@ -6,9 +6,9 @@ Prerequisites
 
 ## Installing
 
-   . Download and install the simulator on your computer - https://www.flightgear.org/download/
-   . Add the generic_small.xml file to the /data/Protocol directory where you installed the simulator
-   . Config the following settings in the 'Settings' tab in the simulator:
+   * Download and install the simulator on your computer - https://www.flightgear.org/download/
+   * Add the generic_small.xml file to the /data/Protocol directory where you installed the simulator
+   * Config the following settings in the 'Settings' tab in the simulator:
 
     --telnet=socket,in,10,127.0.0.1,5402,tcp
     --generic=socket,out,10,127.0.0.1,5400,tcp,generic_small
